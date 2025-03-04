@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
     "updateLog": [
-        "Check: "
+        "Check: https://raw.githubusercontent.com/nizzert/Amadeus/refs/heads/main/%5Bstandalone%5D/morellos_group/fxmanifest.lua?token=GHSAT0AAAAAAC7FTYNPTOSAWH2HIRWAG4I4Z6GOYOQ "
     ]
 }
