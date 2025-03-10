@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "updateLog": [
         "Check: Puedes descargar la última versión en tu cuenta de Tebex. "
     ]
